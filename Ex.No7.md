@@ -1,4 +1,4 @@
-# 19CS545-Ex7 - Find the string in GitHub
+# 19CS545-Ex7 - Find the string 
 
 # AIM:
 To find a string "home" in /etc/passwd and store it. 
